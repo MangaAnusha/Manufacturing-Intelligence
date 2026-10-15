@@ -1,0 +1,6 @@
+topic,symptom,possible_cause,recommended_action
+High vibration,Vibration is above the normal operating range,"Imbalance, bearing wear, or misalignment","Check vibration trends, inspect mounting and bearings, and follow the approved maintenance procedure"
+High temperature,Machine temperature is rising,"Overheating, poor cooling, excessive load, or friction","Verify the temperature sensor, inspect cooling, and check the machine load"
+Low pressure,Pressure is below the expected operating range,"Leakage, blockage, or pump performance issues","Check the pressure sensor, inspect for leaks, and follow the equipment procedure"
+Voltage fluctuation,Voltage readings are unstable,"Power supply variation, loose connections, or sensor issues",Ask a qualified technician to inspect the electrical supply and connections
+Machine failure,Failure event or machine stoppage is recorded,"Mechanical, electrical, control, or process fault","Review recent sensor readings and error logs, follow lockout procedures where applicable, and have authorized personnel inspect the machine"
